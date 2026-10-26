@@ -12,3 +12,7 @@ Features:
 1. To increase brightness - Ctrl + Alt + J, to decrease brightness - Ctrl + Alt + k
 2. Upon closing the application, it will be minimized to system tray. 
 3. A popup is briefly shown for 2  seconds when brightness is increased or decrease
+
+
+
+<img width="408" height="343" alt="image" src="https://github.com/user-attachments/assets/11cd2391-9dd3-4038-86d9-a0e59aa11ec3" />
