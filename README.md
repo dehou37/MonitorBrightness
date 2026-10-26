@@ -3,6 +3,7 @@ There are no software applications to control monitor's brightness. This is an a
 
 PreRequisites:
 - Requires monitor to be DDC/CI compatible (setting has to be turned on)
+- Disable smart app control
 
 Steps to run:
 1. Run publish.bat file 
