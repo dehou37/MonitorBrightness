@@ -13,4 +13,5 @@ obj/
 .vs/
 *.user
 *.suo
+error-log.txt
 "@ | Set-Content .gitignore
